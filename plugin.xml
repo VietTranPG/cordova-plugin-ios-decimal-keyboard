@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-        id="cordova-plugin-decimal-keyboard" version="1.0.1">
-    <name>Decimal Keyboard</name>
-    <description>Cordova Decimal Keyboard Plugin</description>
+        id="cordova-plugin-ios-decimal-keyboard" version="1.0.1">
+    <name>iOS Decimal Keyboard</name>
+    <description>An addition of a decimal (period) button to the numeric / +tel input keyboard.</description>
     <license>Apache 2.0</license>
     <keywords>cordova,keyboard,decimal</keywords>
     <js-module src="www/decimal-keyboard.js" name="decimalKeyboard">
