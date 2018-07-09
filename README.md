@@ -10,17 +10,17 @@ A simple plugin to allow the decimal point to be accessible via the keyboard in 
 cordova plugin add cordova-plugin-ios-decimal-keyboard
 ```
 
-## Basic Usage
+#### Basic Usage
 
 ```
 <input type="text" pattern="[0-9]*" decimal="true">
 ```
 
-### (Optional) Multiple decimals
+#### (Optional) Multiple decimals
 
 ```
 <input type="text" pattern="[0-9]*" decimal="true" allow-multiple-decimals="true">
 ```
 
-### Known Issues
+#### Known Issues
 * Screen rotation unsupported.
