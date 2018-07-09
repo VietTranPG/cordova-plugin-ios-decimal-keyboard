@@ -2,6 +2,8 @@
 
 A simple plugin to allow the decimal point to be accessible via the keyboard in iOS / iPhone.
 
+<img src=https://github.com/gbrits/cordova-plugin-ios-decimal-keyboard/blob/master/screenshots/keyboard.jpg width=25% height=25% />
+
 ### Installing
 
 ```
