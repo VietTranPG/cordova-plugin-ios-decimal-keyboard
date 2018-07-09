@@ -11,7 +11,7 @@
     <platform name="ios">
         <config-file target="config.xml" parent="/*">
             <feature name="DecimalKeyboard">
-                <param name="ios-package" value="CDVDecimalKeyboard" />
+                <param name="ios-package" value="CDVDecimalKeyboard" onload="true" />
             </feature>
         </config-file>
         <header-file src="src/ios/CDVDecimalKeyboard.h" />
