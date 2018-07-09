@@ -5,7 +5,7 @@ A simple plugin to allow the decimal point to be accessible via the keyboard in 
 ### Installing
 
 ```
-cordova plugin add https://github.com/mrchandoo/cordova-plugin-decimal-keyboard.git
+cordova plugin add cordova-plugin-ios-decimal-keyboard
 ```
 ## Usage
 
